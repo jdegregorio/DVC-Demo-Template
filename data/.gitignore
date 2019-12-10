@@ -1,0 +1,6 @@
+/data_prepared.feather
+/data_test.feather
+/data_train.feather
+/eval.csv
+/heart.csv
+/model.rds

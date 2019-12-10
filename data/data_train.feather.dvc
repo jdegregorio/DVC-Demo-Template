@@ -1,0 +1,7 @@
+md5: f3c84aeac910ea7f8f8f8e18ae3f2976
+outs:
+- md5: 45644bbf57a14bc790c028dd2f4e9027
+  path: data_train.feather
+  cache: true
+  metric: false
+  persist: false

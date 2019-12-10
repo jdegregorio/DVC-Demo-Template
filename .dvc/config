@@ -1,0 +1,4 @@
+['remote "remote_s3"']
+url = s3://dvc-demo-01
+[core]
+remote = remote_s3

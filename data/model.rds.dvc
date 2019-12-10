@@ -1,0 +1,7 @@
+md5: c621675ab7135d3baee30121c132d1cb
+outs:
+- md5: 02ea65dd0ca096d1ebfb86ecbe4f1f66
+  path: model.rds
+  cache: true
+  metric: false
+  persist: false

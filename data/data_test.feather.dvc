@@ -1,0 +1,7 @@
+md5: 11040375f26e2ba3a052035e0e096b64
+outs:
+- md5: 3195639f130c968931fc490450bf6247
+  path: data_test.feather
+  cache: true
+  metric: false
+  persist: false
